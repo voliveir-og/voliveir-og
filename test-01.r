@@ -1,0 +1,3 @@
+summary(cars)
+
+plot(pressure)
